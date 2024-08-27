@@ -1,0 +1,13 @@
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/Ejercicio1.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/Ejercicio2.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/Ejercicio3.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/Ejercicio4.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/Ejercicio5.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/Ejercicio6.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/Ejercicio7.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/edit_cache.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/rebuild_cache.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/list_install_components.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/install.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/install/local.dir
+/home/dani/Downloads/Vision_Por_Computador/Taller_Vision_2/build/CMakeFiles/install/strip.dir
